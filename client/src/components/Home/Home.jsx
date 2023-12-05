@@ -35,7 +35,7 @@ const Home = () => {
         },
       }}
       itemBackgroundStyle={{
-        backgroundColor: '#ece4db',
+        backgroundColor: '#fff',
         borderRadius: '3px',
         boxShadow: '8px 12px 14px -6px black',
       }}
