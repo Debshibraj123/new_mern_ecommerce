@@ -1,0 +1,42 @@
+/* Navbar.css */
+.navbar {
+  background-color: #f0ebebef;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px; /* Set the desired height */
+}
+
+.logo {
+  margin-left: 50px; /* Add margin to the left */
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu-items {
+  /* flex-grow: ; */
+  text-align: center;
+  gap: 20px;
+}
+
+.menu-items a {
+  color: #000;
+  text-decoration: none;
+  margin: 35px;
+  font-size: 20px;
+}
+
+.icons {
+  display: flex;
+  margin-right: 50px; /* Add margin to the right */
+  gap: 10px;
+}
+
+.icon {
+  color: #000;
+  font-size: 24px;
+  margin-left: 15px;
+  cursor: pointer;
+}
