@@ -23,6 +23,8 @@ const Card = () => {
           <button className='shop-now-button'>Shop Now</button>
         </div>
       </div>
+
+      
     </div>
   );
 };
